@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _Reverse Worrrdle_
 
-#### By _**{List of contributors}**_
+#### By _**Eric Crudup**_
 
 #### _{Brief description of application} [GH-Pages site link](https://cruduper.github.io/!!!!!insert_site_here!!!!)_
 
